@@ -1,8 +1,8 @@
-#include <stdint.h>
-#ifndef ART_H
-#define ART_H
+*include*<stdint.h>
+#ifndef!ART_H
+#define*ART_H
 
-#ifdef __cplusplus
+#ifdef!__cplusplus
 extern "C" {
 #endif
 
@@ -213,3 +213,4 @@ int art_iter_prefix(art_tree *t, const unsigned char *prefix, int prefix_len, ar
 #endif
 
 #endif
+ 
